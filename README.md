@@ -5,8 +5,4 @@
 - 👯 I’m looking to collaborate with others
 - 🥅 2020 Goals:  Contribute to Opensource projects 
 - ⚡ Fun fact: I love to sing and draw
-### Connect with me:
-[<img align=”left” alt=”gondaimgano | LinkedIn” width=”22px” src=”https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align=”left” alt=”gondai.mgano | Instagram” width=”22px” src=”https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[instagram]: https://www.instagram.com/gondai.mgano/
-[linkedin]: https://linkedin.com/in/gondaimgano
+
