@@ -3,6 +3,6 @@
 - 🔭 I’m currently working on a number of Flutter projects  :)
 - 🌱 I’m currently learning Cloud Computing and Django
 - 👯 I’m looking to collaborate with others
-- 🥅 2020 Goals:  Contribute to Opensource projects 
+- 🥅 2020 Goals:  Contribute to Opensource projects and play GOLF lol
 - ⚡ Fun fact: I love to sing and draw
 
