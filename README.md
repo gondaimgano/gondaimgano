@@ -1,5 +1,5 @@
 ### Hi there, I’m Gondai Nathaniel Richard Mgano 👋
-## I’m a Husband to the most beautiful woman in the world, Father of 2 amazing kids Ethan and Kait! and I am currently a Mobile Developer and advocate for BLoCProvider using Flutter !
+## I’m a Husband to the most beautiful woman in the world, Father of 2 amazing kids Ethan and Kait! and I am currently a Mobile Developer and advocate for SOLID principles and Declarative programming in Flutter/Jetpack Compose !
 - 🔭 I’m currently working upskilling my Kotlin skills - Jetpack Compose is brilliant  :)
 - 🌱 I have most recently earned an Udacity iOS Developer Nanodegree
 - 👯 I’m looking to collaborate with others
