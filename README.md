@@ -3,6 +3,6 @@
 - 🔭 I’m currently upskilling my Kotlin skills - Jetpack Compose is brilliant  :)
 - 🌱 I have most recently earned an Udacity iOS Developer Nanodegree
 - 👯 I’m looking to collaborate with others
-- 🥅 2020 Goals:  Contribute to Opensource projects and play GOLF lol
+- 🥅 2022 Goals:  Contribute to Opensource projects and play GOLF lol
 - ⚡ Fun fact: I love to sing and draw
 
