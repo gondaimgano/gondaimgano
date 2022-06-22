@@ -4,5 +4,5 @@
 - 🌱 I have most recently earned an Udacity iOS Developer Nanodegree and currently completing my Java Nanodegree with Udacity too.
 - 👯 I’m looking to collaborate with others
 - 🥅 2022 Goals:  Contribute to Opensource projects and play GOLF lol
-- ⚡ Fun fact: I love to sing and draw
+- ⚡ Fun fact: I love to sing and play the guitar
 
